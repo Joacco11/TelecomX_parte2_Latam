@@ -5,12 +5,13 @@ Este proyecto tiene como objetivo predecir la cancelación (churn) de clientes d
 ---
 ## Índice
 
-1. [Contexto](#contexto)
-2. [Variables más relevantes](#variables-mas-relevantes)
-3. [Rendimiento de Modelos](#rendimiento-de-modelos)
-4. [Insights y estrategias de retención](#insights-y-estrategias-de-retencion)
-5. [Conclusión](#conclusion)
-6. [Tecnologías Utilizadas](#tecnologías-utilizadas)
+1. [Contexto](#1-contexto)
+2. [Variables más relevantes](#2-variables-mas-relevantes)
+3. [Rendimiento de Modelos](#3-rendimiento-de-modelos)
+4. [Insights y estrategias de retención](#4-insights-y-estrategias-de-retencion)
+5. [Conclusión](#5-conclusion)
+6. [Tecnologías Utilizadas](#6-tecnologias-utilizadas)
+
 ---
 ## 1. Contexto
 
